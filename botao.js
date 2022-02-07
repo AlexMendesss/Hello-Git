@@ -1,0 +1,1 @@
+window.document("<button>Clique Aqui</button>");
